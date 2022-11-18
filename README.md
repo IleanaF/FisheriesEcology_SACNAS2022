@@ -31,7 +31,7 @@ Have research and looking for conference funding? Check out : https://www.aslo.o
 
 Black in Marine Science (BIMS) : https://www.blackinmarinescience.org/
 
-Black Women in Ecology, Evolution and Marine Science (BWEEMS) ; https://www.bweems.org/
+Black Women in Ecology, Evolution and Marine Science (BWEEMS) : https://www.bweems.org/
 
 # Cool Papers 
 Interested in diving into climate change and fisheries further? Check out some of our favorite papers. 
