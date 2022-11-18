@@ -1,9 +1,13 @@
 ## Fisheries Ecology and Climate Change Session at SACNAS2022
 Presentations by the Nye Quantitative Fisheries Ecology Lab at the 2022 SACNAS National Diversity in STEM Conference. Learn more at https://nye.unc.edu/
 
-10/29/2022
-
 ![](sacnas_photo.jpeg)
+
+Left to Right - Dr. Adelle Molina, Dr. Janet Nye, Ileana Fenwick, Sarah Weisberg, Jaelyn Leslie 
+
+# Session Details 
+
+10.29.2022 
 
 Session Introduction: Dr. Janet Nye, Associate Professor Institute of Marine Science at UNC Chapel Hill 
 
