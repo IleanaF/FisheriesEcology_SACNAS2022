@@ -13,7 +13,7 @@ Session Introduction: Dr. Janet Nye, Associate Professor Institute of Marine Sci
 
 "Climate change impacts on fish physiology and fisheries ecology" by Adelle Molina, PhD and Postdoctoral Scholar at Rutgers University 
 
-"Climate change in coastal oceans" by Ileana Fenwick, PhD Student at UNC Chapel Hill 
+["Climate change in coastal oceans"](https://rawcdn.githack.com/IleanaF/FisheriesEcology_SACNAS2022/ac8f3dc853d86fd96a4566aba4d745056a989b33/SACNAS_22_ClimateChange.pdf) by Ileana Fenwick, PhD Student at UNC Chapel Hill 
 
 "Assessing the long term impact of 2013 morbillivirus associated with mass stranding event on Common Bottlenose Dolphins from Virginia, USA" by Jaelyn Leslie, M.Sc and Laboratory Technician for the Institute of Marine Sciences at UNC Chapel Hill 
 
