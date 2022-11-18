@@ -21,7 +21,17 @@ Session Introduction: Dr. Janet Nye, Associate Professor Institute of Marine Sci
 
 
 # Resources 
-We wanted to share some additional resources that may serve helpful as you navigate the field of marine science. Coming soon! 
+We wanted to share some additional resources that may serve helpful as you navigate the field of marine science.
+
+PAID internships in marine science data base : https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5053
+
+Fully funded dive certification and research experience : https://tdp.eeb.ucla.edu/
+
+Have research and looking for conference funding? Check out : https://www.aslo.org/opportunities-in-aslo/aslomp-applications/
+
+Black in Marine Science (BIMS) : https://www.blackinmarinescience.org/
+
+Black Women in Ecology, Evolution and Marine Science (BWEEMS) ; https://www.bweems.org/
 
 # Cool Papers 
 Interested in diving into climate change and fisheries further? Check out some of our favorite papers. 
