@@ -3,6 +3,8 @@ Presentations by the Nye Quantitative Fisheries Ecology Lab at the 2022 SACNAS N
 
 10/29/2022
 
+![](sacnas_photo.jpeg)
+
 Session Introduction: Dr. Janet Nye, Associate Professor Institute of Marine Science at UNC Chapel Hill 
 
 "Climate change impacts on fish physiology and fisheries ecology" by Adelle Molina, PhD and Postdoctoral Scholar at Rutgers University 
