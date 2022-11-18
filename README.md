@@ -3,7 +3,7 @@ Presentations by the Nye Quantitative Fisheries Ecology Lab at the 2022 SACNAS N
 
 ![](sacnas_photo.jpeg)
 
-Left to Right - Dr. Adelle Molina, Dr. Janet Nye, Ileana Fenwick, Sarah Weisberg, Jaelyn Leslie 
+Left to Right - [Dr. Adelle Molina](https://twitter.com/Adelleines), [Dr. Janet Nye](https://twitter.com/drjanetnye), [Ileana Fenwick](https://twitter.com/_ileanaf), [Sarah Weisberg](https://twitter.com/weisberg_sarah), [Jaelyn Leslie](https://twitter.com/Jaelyn_Leslie) 
 
 # Session Details 
 
