@@ -33,3 +33,5 @@ Llopiz, J. K., Cowen, R. K., Hauff, M. J., Ji, R., Munday, P. L., Muhling, B. A.
 Pankhurst NW, Munday PL. Effects of climate change on fish reproduction and early life history stages. Marine and Freshwater Research. 2011;62(9):1015-26.
 
 Hammerschlag N, et al. Ocean warming alters the distributional range, migratory timing, and spatial protections of an apex predator, the tiger shark (Galeocerdo cuvier). Global Change Biology. 2022;28(6):1990-2005.
+
+Jentsch, A., & White, P. (2019). A theory of pulse dynamics and disturbance in ecology. Ecology, 100(7), e02734.
