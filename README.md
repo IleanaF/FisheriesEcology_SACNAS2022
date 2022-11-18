@@ -17,7 +17,7 @@ Session Introduction: Dr. Janet Nye, Associate Professor Institute of Marine Sci
 
 "Assessing the long term impact of 2013 morbillivirus associated with mass stranding event on Common Bottlenose Dolphins from Virginia, USA" by Jaelyn Leslie, M.Sc and Laboratory Technician for the Institute of Marine Sciences at UNC Chapel Hill 
 
-"Which Fish? DNA Barcoding enables broad participation in understanding species dynamics in a warming ocean" by Sarah Weisberg, PhD Candidate at Stonybrook University
+["Which Fish? DNA Barcoding enables broad participation in understanding species dynamics in a warming ocean"](https://rawcdn.githack.com/IleanaF/FisheriesEcology_SACNAS2022/6069dfe78080fc9eebf91ae7995e84040361e003/Weisberg_SACNAS_Which_Fish.pdf) by Sarah Weisberg, PhD Candidate at Stonybrook University
 
 
 # Resources 
