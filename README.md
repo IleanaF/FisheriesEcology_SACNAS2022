@@ -28,5 +28,8 @@ Interested in diving into climate change and fisheries further? Check out some o
 
 Free, C. M., Thorson, J. T., Pinsky, M. L., Oken, K. L., Wiedenmann, J., & Jensen, O. P. (2019). Impacts of historical warming on marine fisheries production. Science, 363(6430), 979-983.
 
+Llopiz, J. K., Cowen, R. K., Hauff, M. J., Ji, R., Munday, P. L., Muhling, B. A., ... & Sponaugle, S. (2014). Early life history and fisheries oceanography: new questions in a changing world. Oceanography, 27(4), 26-41.
 
+Pankhurst NW, Munday PL. Effects of climate change on fish reproduction and early life history stages. Marine and Freshwater Research. 2011;62(9):1015-26.
 
+Hammerschlag N, et al. Ocean warming alters the distributional range, migratory timing, and spatial protections of an apex predator, the tiger shark (Galeocerdo cuvier). Global Change Biology. 2022;28(6):1990-2005.
